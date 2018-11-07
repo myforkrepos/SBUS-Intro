@@ -162,4 +162,5 @@ Armed with the knowledge and experience that you gained with this tutorial, see 
 
 # Next Tutorial
 1. [Reading SBUS](https://github.com/bolderflight/Reading-SBUS): Gain experience reading SBUS packets!
+1. [PWM Introduction](https://github.com/bolderflight/PWM-Intro): Learn about the de facto standard for controlling servos, PWM!
 2. [SBUS to PWM Converter](https://github.com/bolderflight/SBUS-to-PWM): Use your knowledge of PWM and SBUS to create your own SBUS to PWM converter!
