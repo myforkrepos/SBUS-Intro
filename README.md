@@ -161,4 +161,5 @@ Armed with the knowledge and experience that you gained with this tutorial, see 
 4. Try tracing the full range of the servo arm on a piece of paper and estimate its angle. Send the servo an SBUS command, mark the resulting position and estimate its angle. Do this for several different SBUS commands throughout the full range. Can you estimate a function to convert angles to SBUS commands? Try writing a function that will take an angle command as a parameter, convert the angle to an appropriate SBUS command, and send that command to the servo.
 
 # Next Tutorial
-1. [SBUS to PWM Converter](https://github.com/bolderflight/SBUS-to-PWM): Use your knowledge of PWM and SBUS to create your own SBUS to PWM converter!
+1. [Reading SBUS](https://github.com/bolderflight/Reading-SBUS): Gain experience reading SBUS packets!
+2. [SBUS to PWM Converter](https://github.com/bolderflight/SBUS-to-PWM): Use your knowledge of PWM and SBUS to create your own SBUS to PWM converter!
